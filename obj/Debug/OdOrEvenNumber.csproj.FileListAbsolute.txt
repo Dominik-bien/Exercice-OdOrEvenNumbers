@@ -1,7 +1,0 @@
-D:\C#\ExerciseGit\OdOrEvenNumber\bin\Debug\OdOrEvenNumber.exe.config
-D:\C#\ExerciseGit\OdOrEvenNumber\bin\Debug\OdOrEvenNumber.exe
-D:\C#\ExerciseGit\OdOrEvenNumber\bin\Debug\OdOrEvenNumber.pdb
-D:\C#\ExerciseGit\OdOrEvenNumber\obj\Debug\OdOrEvenNumber.csproj.AssemblyReference.cache
-D:\C#\ExerciseGit\OdOrEvenNumber\obj\Debug\OdOrEvenNumber.csproj.CoreCompileInputs.cache
-D:\C#\ExerciseGit\OdOrEvenNumber\obj\Debug\OdOrEvenNumber.exe
-D:\C#\ExerciseGit\OdOrEvenNumber\obj\Debug\OdOrEvenNumber.pdb
